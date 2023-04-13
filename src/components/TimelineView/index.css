@@ -1,0 +1,27 @@
+.chrono-container {
+  width: 100%;
+  height: 100%;
+}
+
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+  max-height: 100%;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.heading-description {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #1e293b;
+  font-weight: 500;
+  margin: 0px;
+}
